@@ -1,0 +1,119 @@
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+\usepackage{hyperref}
+\usepackage{fontawesome}
+\usepackage{setspace}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+}
+\usepackage[left=0.30in,top=0.20in,right=0.50in,bottom=0.20in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Rishabh Srivastava} % Your name
+%\address{123 Pleasant Lane \\ City, State 12345} % Your secondary addess (optional)
+\address{(+91) 8840200832 \\ rishbh.1000@gmail.com \\ \href{https://www.linkedin.com/in/srivastavarishabh0107/}{\faLinkedin} \\
+\href{https://github.com/rishabhsmrt}{\faGithub}
+}
+% Your phone number and email
+\begin{document}
+
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Work Experience}
+\begin{rSubsection}{\href{https://www.ni.com/en-in.html}{National Instrument}, Bangalore}{\em July 2021 - March 2023}{Software Engineer}
+
+ \textnormal{My previous roles include working in the MSC Drivers team, where I maintained driver's code for various hardware at NI. My responsibilities included coordinating with external stakeholders for adding new features, maintain CI/CD pipelines, and preparing products for release. I worked with C++, Git, MongoDB, Node.js, React.js, and React Native.}
+\newline
+\textnormal{Additionally, I worked in the Installers team, where I focused on publishing software packages through the company's own package manager. I created software packages worked on various tools such as Azure DevOps, GNU makefile, MSI, WiX toolset (Windows Installer XML), Perforce, Perl, and Python, SQL.}
+\newline
+\textnormal{Also, I worked in the VNV team, where I was responsible for debugging daily build failures of RFSA/G driver software. I used tools such as LabVIEW, Jenkins, and Kibana, Web framework, and RESTful APIs to solve the issues.}
+\newline
+\textbf{\textit{Tech Stack}}: Git, C++, Javascript, Python, LabVIEW, Jenkins, Perforce, React.js, Node.js, MongoDB, SQL, React Native.
+\end{rSubsection}
+
+\begin{rSubsection}{\href{https://www.crio.do/}{Crio.do} }{\em July 2021 - Aug 2021}{Mentor}
+
+\textnormal{Conducted weekly classes on DSA and provided individualized support to students during doubt session classes to help them overcome challenges.} 
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{{\bf \href{https://csjmu.ac.in/school-of-engineering-and-technology/}{Chhatrapati Shahu Ji Maharaj University, Kanpur}} \hfill {\em Aug 2017 - Sep 2021} 
+\\ Bachelor of Technology, CSE \hfill {CGPA : 7.95}
+\\{\bf \href{https://www.balvidyamandirlucknow.org/}{BVM Senior Secondary School, Lucknow}} \hfill {\em July 2015 - June 2016} 
+\\ 12th, CBSE.\hfill { Percentage: 90.0  }
+%Minor in Linguistics \smallskip \\
+%Member of Eta Kappa Nu \\
+%Member of Upsilon Pi Epsilon \\
+\end{rSection}
+
+
+%--------------------------------------------------------------------------------
+%    Projects And Seminars
+%-----------------------------------------------------------------------------------------------
+\begin{rSection}{Competitive Programming Skills}
+{
+{\bf \href{https://www.codechef.com/users/nerd001}{Codechef}}: Max Rating - \textbf{1838}, Problems Solved - \textbf{238}}
+{\\{\bf \href{https://codeforces.com/profile/rishabhsrivastava}{Codeforces}}: Max Rating - \textbf{1421}, Problems Solved - \textbf{757}
+}
+\end{rSection}
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{ACHIEVEMENTS}\textnormal{
+\\- Participated in \href{https://drive.google.com/file/d/1aAM3SeESGzExkmQTikj0gF_z7jjJ_N4z/view?usp=share_link}{Google Kick Start 2021} and 
+\href{https://drive.google.com/file/d/1XQxOD8Y6QDYm_QUkYREuTQDalKaA3bUf/view?usp=share_link}{Google Kick Start 2020} {Achieved best rank of 805th in Round G among 6700 participants}
+\\- Participated in 
+\href{https://drive.google.com/file/d/1IwhJnmxOEVrbLjL-vuvJZQVc2UHOsNul/view?usp=share_link}{Google Code Jam 2021} and
+\href{https://drive.google.com/file/d/1321ZQVV-S2m-yq62JARd0xfTjwO_Up-x/view?usp=share_link}{Google Code Jam 2020} 
+\\- Participated in 
+\href{https://drive.google.com/file/d/1qjUwiF4xF1gZvQiN3XFzZCdDt-wnF96m/view?usp=share_link}{Google Hash Code 2021} got rank 4335th among 8900+ participants worldwide and
+\href{https://drive.google.com/file/d/1leuvHbtSXEQLzIYwgVXVcJ1NtN9iEG9U/view?usp=share_link}{Google Hash Code 2020} got rank 5696th among 10000+ participants worldwide.
+}
+
+\end{rSection}
+
+
+\begin{rSection}{FREELANCE / PROJECTS}
+\begin{rSubsection}{\href{https://scale.com/}{Scale AI}, Remote Freelancing Work}{\em May 2023 - June 2023}{Competitive Coder AI Training}
+
+\textnormal{Created training data so generative artificial intelligence models can write better code. Ranked a series of code responses that were produced by an AI model. Wrote pieces of code with reasoning to show an AI model how to respond to prompts. Edited code was written by an AI model to fix bugs and improve performance.}
+\newline
+\\{\bf {Product Catalog and Ordering System for Local Service Business}} \hfill {\em March 2021 - April 2021} 
+
+\\\textbf{Tech Stack}: HTML, CSS, JavaScript, React.js, Google App script.\\
+\textnormal{
+As a developer singly responsible for, such as website design, development, testing, and deployment.}
+\end{rSection}
+
+\begin{rSection}{SKILLS}
+Java, Python, C++, Perl, JavaScript, Agile, Scrum, AWS, Azure and Google Cloud. 
+\end{rSection}
+
+%	EXAMPLE SECTION
+%----------------------------------------------------------------------------------------
+
+
+\newpage
+
+%----------------------------------------------------------------------------------------
+% Extra Curricular
+%----------------------------------------------------------------------------------------
+
+\end{document}
