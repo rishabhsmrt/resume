@@ -91,13 +91,13 @@
 
 
 \begin{rSection}{FREELANCE / PROJECTS}
-\begin{rSubsection}{\href{https://scale.com/}{Scale AI}, Remote Freelancing Work}{\em May 2023 - June 2023}{Competitive Coder AI Training}
+\begin{rSubsection}{\href{https://scale.com/}{Scale AI}, Remote Freelancing Work}{\em May 2023 - September 2023}{Competitive Coder AI Training}
 
 \textnormal{Created training data so generative artificial intelligence models can write better code. Ranked a series of code responses that were produced by an AI model. Wrote pieces of code with reasoning to show an AI model how to respond to prompts. Edited code was written by an AI model to fix bugs and improve performance.}
 \newline
-\\{\bf {Product Catalog and Ordering System for Local Service Business}} \hfill {\em March 2021 - April 2021} 
+\\{\bf {\href{https://www.narayanlko.com/}{Product Catalog and Ordering System for Local Service Business}} \hfill {\em March 2023 - April 2023} 
 
-\\\textbf{Tech Stack}: HTML, CSS, JavaScript, React.js, Google App script.\\
+\\\textbf{Tech Stack}: AWS, JavaScript, HTML, CSS, React.js, Google App script.\\
 \textnormal{
 As a developer singly responsible for, such as website design, development, testing, and deployment.}
 \end{rSection}
