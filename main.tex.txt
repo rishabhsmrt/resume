@@ -1,4 +1,3 @@
-
 %----------------------------------------------------------------------------------------
 %	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
 %----------------------------------------------------------------------------------------
@@ -90,16 +89,17 @@
 \end{rSection}
 
 
-\begin{rSection}{FREELANCE / PROJECTS}
-\begin{rSubsection}{\href{https://scale.com/}{Scale AI}, Remote Freelancing Work}{\em May 2023 - September 2023}{Competitive Coder AI Training}
+\begin{rSection}{PROJECTS}
+\begin{itemize}
+\item
+\\{\textnormal {{Developed an artificial intelligence model capable of generating paragraphs on a given topic, exhibiting a style closely resembling the textual patterns present in provided datasets.}} \hfill {\em  }\hfill {\em August 2023 - December 2023} 
 
-\textnormal{Created training data so generative artificial intelligence models can write better code. Ranked a series of code responses that were produced by an AI model. Wrote pieces of code with reasoning to show an AI model how to respond to prompts. Edited code was written by an AI model to fix bugs and improve performance.}
-\newline
-\\{\bf {\href{https://www.narayanlko.com/}{Product Catalog and Ordering System for Local Service Business}} \hfill {\em March 2023 - April 2023} 
+\\\textbf{Tech Stack}: AWS, Python, Pytorch, Numpy, Pandas, Matplotlib, Jupyter, Git, Google Collab, GenAI.
+
+\item \\{\bf {\href{https://www.narayanlko.com/}{Product Catalog and Ordering System for Local Service Business}} \hfill {\em March 2023 - April 2023} 
 
 \\\textbf{Tech Stack}: AWS, JavaScript, HTML, CSS, React.js, Google App script.\\
-\textnormal{
-As a developer singly responsible for, such as website design, development, testing, and deployment.}
+\end{itemize}
 \end{rSection}
 
 \begin{rSection}{SKILLS}
