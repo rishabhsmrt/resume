@@ -29,6 +29,12 @@
 %----------------------------------------------------------------------------------------
 
 \begin{rSection}{Work Experience}
+
+\begin{rSubsection}{\href{https://scale.com/}{Scale AI}, Remote Freelancing Work}{\em May 2023 - Present}{AI Trainer}
+
+\textnormal{Created training data so generative artificial intelligence models can write better code. Ranked a series of code responses that were produced by an AI model. Wrote pieces of code with reasoning to show an AI model how to respond to prompts. Edited code was written by an AI model to fix bugs and improve performance. Used RFLH and SFT Techniques for training models on implicit code generation.}
+\newline
+
 \begin{rSubsection}{\href{https://www.ni.com/en-in.html}{National Instrument}, Bangalore}{\em July 2021 - March 2023}{Software Engineer}
 
  \textnormal{My previous roles include working in the MSC Drivers team, where I maintained driver's code for various hardware at NI. My responsibilities included coordinating with external stakeholders for adding new features, maintain CI/CD pipelines, and preparing products for release. I worked with C++, Git, MongoDB, Node.js, React.js, and React Native.}
@@ -40,10 +46,7 @@
 \textbf{\textit{Tech Stack}}: Git, C++, Javascript, Python, LabVIEW, Jenkins, Perforce, React.js, Node.js, MongoDB, SQL, React Native.
 \end{rSubsection}
 
-\begin{rSubsection}{\href{https://www.crio.do/}{Crio.do} }{\em July 2021 - Aug 2021}{Mentor}
 
-\textnormal{Conducted weekly classes on DSA and provided individualized support to students during doubt session classes to help them overcome challenges.} 
-\end{rSection}
 
 
 %----------------------------------------------------------------------------------------
@@ -90,16 +93,9 @@
 
 
 \begin{rSection}{PROJECTS}
-\begin{itemize}
-\item
-\\{\textnormal {{Developed an artificial intelligence model capable of generating paragraphs on a given topic, exhibiting a style closely resembling the textual patterns present in provided datasets.}} \hfill {\em  }\hfill {\em August 2023 - December 2023} 
-
-\\\textbf{Tech Stack}: AWS, Python, Pytorch, Numpy, Pandas, Matplotlib, Jupyter, Git, Google Collab, GenAI.
 
 \item \\{\bf {\href{https://www.narayanlko.com/}{Product Catalog and Ordering System for Local Service Business}} \hfill {\em March 2023 - April 2023} 
-
 \\\textbf{Tech Stack}: AWS, JavaScript, HTML, CSS, React.js, Google App script.\\
-\end{itemize}
 \end{rSection}
 
 \begin{rSection}{SKILLS}
